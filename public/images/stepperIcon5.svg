@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-stepperIcon5">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="stepperIcon5" clip-path="url(#clip-stepperIcon5)">
+    <rect width="60" height="60" fill="#fff"/>
+    <g id="Group_8" data-name="Group 8">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="60" height="60" fill="#fff" opacity="0"/>
+      <g id="Group_7" data-name="Group 7" transform="translate(-76 -71.9)">
+        <path id="Path_36" data-name="Path 36" d="M124.062,774.756H87.07a1.071,1.071,0,0,1-1.07-1.07V767.77a1.071,1.071,0,0,1,1.07-1.07h37a1.071,1.071,0,0,1,1.07,1.07v5.916A1.078,1.078,0,0,1,124.062,774.756Zm-36.684-1.378h36.377v-5.3H87.378Z" transform="translate(0 -653.347)"/>
+        <path id="Path_37" data-name="Path 37" d="M168.814,308.789H134.1V287.036a1.738,1.738,0,0,1,1.736-1.736h31.242a1.738,1.738,0,0,1,1.736,1.736Zm-33.336-1.378h31.954V287.036a.359.359,0,0,0-.358-.358H135.836a.359.359,0,0,0-.358.358Z" transform="translate(-45.891 -194.058)"/>
+        <path id="Path_38" data-name="Path 38" d="M531.844,88.849h-15.1a1.045,1.045,0,0,1-1.043-1.043V82.943a1.045,1.045,0,0,1,1.043-1.043h15.1a1.045,1.045,0,0,1,1.043,1.043v4.864A1.042,1.042,0,0,1,531.844,88.849Zm-14.767-1.378h14.431V83.278H517.078Z" transform="translate(-409.964)"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="2" height="4" transform="translate(113.368 88.125)"/>
+        <path id="Path_39" data-name="Path 39" d="M520.641,402.441H507V395h13.641Zm-12.263-1.378h10.885v-4.685H508.378Z" transform="translate(-401.663 -298.719)"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="3" height="1" transform="translate(92.368 96.125)"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="3" height="1" transform="translate(98.368 96.125)"/>
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="3" height="1" transform="translate(92.368 102.125)"/>
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="3" height="1" transform="translate(98.368 102.125)"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="3" height="2" transform="translate(92.368 108.125)"/>
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="3" height="2" transform="translate(98.368 108.125)"/>
+        <rect id="Rectangle_14" data-name="Rectangle 14" width="14" height="2" transform="translate(105.368 108.125)"/>
+        <rect id="Rectangle_15" data-name="Rectangle 15" width="8" height="2" transform="translate(101.368 116.125)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1187" height="408" viewBox="0 0 1187 408">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="497" width="1123" height="368" fill="none"/>
+    </clipPath>
+    <filter id="Line" x="70.825" y="180.174" width="1109.807" height="136.455" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line-2" x="-1018.182" y="180.174" width="1121.608" height="136.455" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="BG" x="787.5" y="112.5" width="165.5" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-3"/>
+      <feFlood flood-color="#44444f" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_431" data-name="Group 431" transform="translate(-298 -361)">
+    <g id="Group_424" data-name="Group 424">
+      <g id="Group_423" data-name="Group 423">
+        <g id="Value" transform="translate(299 403)">
+          <g id="_0" data-name="0" transform="translate(23 316)">
+            <text id="_0-2" data-name="0" transform="translate(9 15)" fill="#7e84a3" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="-8.792" y="0">0</tspan></text>
+          </g>
+          <g id="_200" data-name="200" transform="translate(6 248)">
+            <text id="_200-2" data-name="200" transform="translate(26 15)" fill="#7e84a3" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="-25.834" y="0">200</tspan></text>
+          </g>
+          <g id="_400" data-name="400" transform="translate(5 186)">
+            <text id="_400-2" data-name="400" transform="translate(27 15)" fill="#7e84a3" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="-26.59" y="0">400</tspan></text>
+          </g>
+          <g id="_600" data-name="600" transform="translate(5 124)">
+            <text id="_600-2" data-name="600" transform="translate(27 15)" fill="#7e84a3" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="-26.674" y="0">600</tspan></text>
+          </g>
+          <g id="_800" data-name="800" transform="translate(5 62)">
+            <text id="_800-2" data-name="800" transform="translate(27 15)" fill="#7e84a3" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="-26.618" y="0">800</tspan></text>
+          </g>
+          <g id="_1k" data-name="1k">
+            <text id="_1k-2" data-name="1k" transform="translate(31 15)" fill="#7e84a3" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="-31.156" y="0">1000</tspan></text>
+          </g>
+        </g>
+        <g id="Scroll_Group" data-name="Scroll Group" transform="translate(-135 401)" clip-path="url(#clip-path)" style="isolation: isolate">
+          <g id="Month" transform="translate(495.5)">
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(1090.5)">
+              <text id="Jan" transform="translate(13 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.571" y="0">Dec</tspan></text>
+              <path id="Shape" d="M.011,336V0H.989V336Z" transform="translate(13.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-2" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(991.5)">
+              <text id="Jan-2" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.376" y="0">Nov</tspan></text>
+              <path id="Shape-2" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-3" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(894.5)">
+              <text id="Jan-3" data-name="Jan" transform="translate(11 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.421" y="0">Oct</tspan></text>
+              <path id="Shape-3" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(11.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-4" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(795.5)">
+              <text id="Jan-4" data-name="Jan" transform="translate(12 363)" fill="#131523" font-size="13" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-12.415" y="0">Sep</tspan></text>
+              <path id="Shape-4" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#0058ff"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-5" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(694.5)">
+              <text id="Jan-5" data-name="Jan" transform="translate(13 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.935" y="0">Aug</tspan></text>
+              <path id="Shape-5" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(13.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-6" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(601.5)">
+              <text id="Jan-6" data-name="Jan" transform="translate(9 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-9.204" y="0">Jul</tspan></text>
+              <path id="Shape-6" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(9.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-7" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(502.5)">
+              <text id="Jan-7" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.765" y="0">Jun</tspan></text>
+              <path id="Shape-7" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-8" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(399.5)">
+              <text id="Jan-8" data-name="Jan" transform="translate(14 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-13.65" y="0">May</tspan></text>
+              <path id="Shape-8" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(14.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-9" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(302.5)">
+              <text id="Jan-9" data-name="Jan" transform="translate(11 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.199" y="0">Apr</tspan></text>
+              <path id="Shape-9" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(11.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-10" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(203.5)">
+              <text id="Jan-10" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.415" y="0">Mar</tspan></text>
+              <path id="Shape-10" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-11" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(104.5)">
+              <text id="Jan-11" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.7" y="0">Feb</tspan></text>
+              <path id="Shape-11" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-12" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(5.5)">
+              <text id="Jan-12" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.999" y="0">Jan</tspan></text>
+              <path id="Shape-12" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+          </g>
+          <g id="Month-2" data-name="Month" transform="translate(-591.5)">
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-13" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(991.5)">
+              <text id="Jan-13" data-name="Jan" transform="translate(13 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.571" y="0">Dec</tspan></text>
+              <path id="Shape-13" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(13.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-14" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(892.5)">
+              <text id="Jan-14" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.376" y="0">Nov</tspan></text>
+              <path id="Shape-14" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-15" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(795.5)">
+              <text id="Jan-15" data-name="Jan" transform="translate(11 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.421" y="0">Oct</tspan></text>
+              <path id="Shape-15" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(11.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-16" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(696.5)">
+              <text id="Jan-16" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.24" y="0">Sep</tspan></text>
+              <path id="Shape-16" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-17" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(595.5)">
+              <text id="Jan-17" data-name="Jan" transform="translate(13 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.935" y="0">Aug</tspan></text>
+              <path id="Shape-17" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(13.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-18" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(502.5)">
+              <text id="Jan-18" data-name="Jan" transform="translate(9 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-9.204" y="0">Jul</tspan></text>
+              <path id="Shape-18" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(9.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-19" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(403.5)">
+              <text id="Jan-19" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.765" y="0">Jun</tspan></text>
+              <path id="Shape-19" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-20" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(300.5)">
+              <text id="Jan-20" data-name="Jan" transform="translate(14 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-13.65" y="0">May</tspan></text>
+              <path id="Shape-20" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(14.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-21" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(203.5)">
+              <text id="Jan-21" data-name="Jan" transform="translate(11 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.199" y="0">Apr</tspan></text>
+              <path id="Shape-21" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(11.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-22" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(104.5)">
+              <text id="Jan-22" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.415" y="0">Mar</tspan></text>
+              <path id="Shape-22" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+            <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-23" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(5.5)">
+              <text id="Jan-23" data-name="Jan" transform="translate(12 363)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.7" y="0">Feb</tspan></text>
+              <path id="Shape-23" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(12.5)" fill="#e6e9f4"/>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 433, -40)" filter="url(#Line)">
+            <path id="Line-3" data-name="Line" d="M-2.179,30.927c9.031,2.469,17.792-2.608,33.252.9C43.245,34.581,53.834,43.44,69.418,46.117,99,51.2,123.136,56.419,136.852,68.554s33.884,35.91,58.419,35.91,37.023-21.4,46.279-35.5c8.865-13.5,26.362-28.565,53.972-32.141C326,32.876,351.056,8.807,387.418,4.761c19.38-2.156,34.906,2.04,52.229,8.561s13.932,9.337,52.89,14.364c32.15,4.149,40.559,18.43,72.062,20.149S610.673-4.223,643.933.266,683.84-6.851,715.1,15.145s60.151,4.444,99.4-.045,49.47,9.437,68.1,7.642,35.4,32.155,51.361,37.093,20.492-13,54.418-13,30.3-17.8,48.923-19.149,31.7.926,37.684-4.91" transform="translate(89.23 186.16)" fill="none" stroke="#0058ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 433, -40)" filter="url(#Line-2)">
+            <path id="Line-4" data-name="Line" d="M1088.9,30.959c-25.2-9.617-29.531-2.639-44.99.864-12.172,2.758-22.761,11.617-38.345,14.294-29.578,5.081-53.718,10.3-67.435,22.437s-33.884,35.91-58.419,35.91-37.023-21.4-46.279-35.5c-8.865-13.5-26.362-28.565-53.972-32.141-30.475-3.947-55.534-28.016-91.9-32.061-19.38-2.156-34.906,2.04-52.229,8.561s-13.932,9.337-52.89,14.364c-32.15,4.149-40.559,18.43-72.062,20.149S464.313-4.223,431.052.266s-39.906-7.117-71.171,14.879-60.151,4.444-99.4-.045-49.47,9.437-68.1,7.642S156.99,54.9,141.025,59.835s-20.492-13-54.418-13-30.3-17.8-48.923-19.149S5.987,28.613,0,22.777" transform="translate(-1001.77 186.16)" fill="none" stroke="#0058ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <path id="Line-5" data-name="Line" d="M0,118.947c5.322,3.586,45.9,8.8,69.182-3.912s43.9-5.868,67.852-3.26,31.93-28.036,58.539-31.948,59.869-24.811,99.782-29.7,37.252,24.159,89.8,28.4,67.187-25.428,91.134-33.9S510.884-2.482,550.8.126s59.869,28.74,93.13,32S683.84,57.007,715.1,72.981s59.869,17.93,99.117,14.67,49.891-36.221,68.517-37.525,35.256,14.414,51.221,18,20.622,19.525,54.547,19.525,29.935,6.194,48.561,5.216,31.93-10.106,37.917-14.344" transform="translate(522.232 95.874)" fill="none" stroke="#21d59b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Line-6" data-name="Line" d="M1090.522,118.737c-25.545-12.716-61.436,9.013-84.719-3.7s-43.9-5.868-67.852-3.26-31.93-28.036-58.539-31.948-59.869-24.811-99.782-29.7-37.252,24.159-89.8,28.4-67.187-25.428-91.134-33.9S564.1-2.482,524.188.126s-59.869,28.74-93.13,32-39.913,24.881-71.178,40.855-59.869,17.93-99.117,14.67S210.873,51.43,192.247,50.126s-35.256,14.414-51.221,18S120.4,87.651,86.478,87.651s-29.935,6.194-48.561,5.216S5.987,82.761,0,78.523" transform="translate(-568.768 95.874)" fill="none" stroke="#21d59b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <g id="Tooltip_Pointer_down" data-name="Tooltip / Pointer down" transform="translate(1243 90)">
+            <g id="TooltipBG" transform="translate(0 31.106)">
+              <g transform="matrix(1, 0, 0, 1, -810, -161.11)" filter="url(#BG)">
+                <path id="BG-2" data-name="BG" d="M54.25,59H3.951A4.088,4.088,0,0,1,0,54.786V4.215A4.089,4.089,0,0,1,3.951,0h112.6A4.09,4.09,0,0,1,120.5,4.215V54.786A4.089,4.089,0,0,1,116.549,59H66.25l-6,6Z" transform="translate(810 130)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Data_Key" data-name="Data Key" transform="translate(-0.5 28)">
+              <g id="Data" transform="translate(10.5 7)">
+                <text id="Online_Sales" data-name="Online Sales" transform="translate(44 11)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Offline</tspan></text>
+                <text id="_750" data-name="$750" transform="translate(12 11)" fill="#131523" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">576</tspan></text>
+                <rect id="Sales" width="8" height="8" rx="4" transform="translate(0 3)" fill="#0062ff"/>
+              </g>
+            </g>
+            <text id="Titlee" transform="translate(10.5 23)" fill="#131523" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">September, 2019</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Offline" transform="translate(910 361)">
+        <rect id="Shape-24" data-name="Shape" width="10" height="10" rx="5" transform="translate(0 5)" fill="#0058ff"/>
+        <text id="Marketing_Sales" data-name="Marketing Sales" transform="translate(18 15)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Offline</tspan></text>
+      </g>
+      <g id="Online" transform="translate(807 361)">
+        <rect id="Shape-25" data-name="Shape" width="10" height="10" rx="5" transform="translate(0 5)" fill="#21d59b"/>
+        <text id="Marketing_Sales-2" data-name="Marketing Sales" transform="translate(18 15)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Online</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

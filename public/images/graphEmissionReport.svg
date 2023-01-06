@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="789.404" height="382.26" viewBox="0 0 789.404 382.26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="734" height="246.26" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_432" data-name="Group 432" transform="translate(-280.596 -1318)">
+    <g id="Chart_-_Left_Value" data-name="Chart - Left Value" transform="translate(302 1658)">
+      <rect id="Shape" width="720" height="1.344" transform="translate(38.792 15)" fill="#f1f1f5"/>
+      <text id="_1k" data-name="$1k" transform="translate(8 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-7.536" y="0">0</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-2" data-name="Chart - Left Value" transform="translate(284.596 1621)">
+      <rect id="Shape-2" data-name="Shape" width="720" height="1.344" transform="translate(55.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-2" data-name="$1k" transform="translate(25 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-25.02" y="0">$10k</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-3" data-name="Chart - Left Value" transform="translate(281.596 1584)">
+      <rect id="Shape-3" data-name="Shape" width="720" height="1.344" transform="translate(58.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-3" data-name="$1k" transform="translate(28 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-28.08" y="0">$20k</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-4" data-name="Chart - Left Value" transform="translate(281.596 1547)">
+      <rect id="Shape-4" data-name="Shape" width="720" height="1.344" transform="translate(58.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-4" data-name="$1k" transform="translate(28 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-28.248" y="0">$30k</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-5" data-name="Chart - Left Value" transform="translate(280.596 1510)">
+      <rect id="Shape-5" data-name="Shape" width="720" height="1.344" transform="translate(59.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-5" data-name="$1k" transform="translate(29 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-28.728" y="0">$40k</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-6" data-name="Chart - Left Value" transform="translate(280.596 1473)">
+      <rect id="Shape-6" data-name="Shape" width="720" height="1.344" transform="translate(59.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-6" data-name="$1k" transform="translate(29 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-28.716" y="0">$50k</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-7" data-name="Chart - Left Value" transform="translate(280.596 1436)">
+      <rect id="Shape-7" data-name="Shape" width="720" height="1.344" transform="translate(59.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-7" data-name="$1k" transform="translate(29 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-28.8" y="0">$60k</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-8" data-name="Chart - Left Value" transform="translate(281.596 1399)">
+      <rect id="Shape-8" data-name="Shape" width="720" height="1.344" transform="translate(58.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-8" data-name="$1k" transform="translate(28 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-27.732" y="0">$70k</tspan></text>
+    </g>
+    <g id="Chart_-_Left_Value-9" data-name="Chart - Left Value" transform="translate(280.596 1362)">
+      <rect id="Shape-9" data-name="Shape" width="720" height="1.344" transform="translate(59.792 15)" fill="#f1f1f5"/>
+      <text id="_1k-9" data-name="$1k" transform="translate(29 13)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-28.752" y="0">$80k</tspan></text>
+    </g>
+    <g id="Income" transform="translate(400 1318)">
+      <rect id="Shape-10" data-name="Shape" width="10" height="10" rx="5" transform="translate(0 5)" fill="#0062ff"/>
+      <text id="Marketing_Sales" data-name="Marketing Sales" transform="translate(18 15)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Legend 2</tspan></text>
+    </g>
+    <g id="Online" transform="translate(282 1318)">
+      <rect id="Shape-11" data-name="Shape" width="10" height="10" rx="5" transform="translate(0 5)" fill="#21d59b"/>
+      <text id="Marketing_Sales-2" data-name="Marketing Sales" transform="translate(18 15)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Legend 1</tspan></text>
+    </g>
+    <g id="Bar_Graph" data-name="Bar Graph" transform="translate(336 1454)" clip-path="url(#clip-path)">
+      <g transform="translate(-410.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(412.5 1951)">
+          <text id="Month" transform="translate(18 169.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.378" y="0">Jan 19</tspan></text>
+          <g id="Bars" transform="translate(5 -73)">
+            <path id="Blue_Bar" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V134a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 85)" fill="#0062ff"/>
+            <path id="Green_Bar" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V146a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 73)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-353.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-2" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(412.5 2002)">
+          <text id="Month-2" data-name="Month" transform="translate(18 118.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.102" y="0">Feb 19</tspan></text>
+          <g id="Bars-2" data-name="Bars" transform="translate(5 -124)">
+            <path id="Blue_Bar-2" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V95a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 124)" fill="#0062ff"/>
+            <path id="Green_Bar-2" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 164)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-296.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-3" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(411.5 1878)">
+          <text id="Month-3" data-name="Month" transform="translate(19 242.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.762" y="0">Mar 19</tspan></text>
+          <g id="Bars-3" data-name="Bars" transform="translate(6)">
+            <path id="Blue_Bar-3" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V219a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15)" fill="#0062ff"/>
+            <path id="Green_Bar-3" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V191a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 28)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-239.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-4" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(412.5 1960)">
+          <text id="Month-4" data-name="Month" transform="translate(18 160.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-17.64" y="0">Apr 19</tspan></text>
+          <g id="Bars-4" data-name="Bars" transform="translate(5 -82)">
+            <path id="Blue_Bar-4" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V137a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 82)" fill="#0062ff"/>
+            <path id="Green_Bar-4" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V85a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 134)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-182.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-5" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(410.5 1984)">
+          <text id="Month-5" data-name="Month" transform="translate(20 136.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-19.902" y="0">May 19</tspan></text>
+          <g id="Bars-5" data-name="Bars" transform="translate(7 -106)">
+            <path id="Blue_Bar-5" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V113a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 106)" fill="#0062ff"/>
+            <path id="Green_Bar-5" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V43a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 176)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-125.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-6" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(412.5 1916)">
+          <text id="Month-6" data-name="Month" transform="translate(18 204.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.162" y="0">Jun 19</tspan></text>
+          <g id="Bars-6" data-name="Bars" transform="translate(5 -38)">
+            <path id="Blue_Bar-6" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V181a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 38)" fill="#0062ff"/>
+            <path id="Green_Bar-6" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V65a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 154)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-68.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-7" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(414.5 1906)">
+          <text id="Month-7" data-name="Month" transform="translate(16 214.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-15.798" y="0">Jul 19</tspan></text>
+          <g id="Bars-7" data-name="Bars" transform="translate(3 -28)">
+            <path id="Blue_Bar-7" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V39a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(28 180)" fill="#0062ff"/>
+            <path id="Green_Bar-7" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V191a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 28)" fill="#29cb97"/>
+            <path id="Green_Bar-8" data-name="Green Bar" d="M4,0C6.209,0,8,1.195,8,2.668V127.408H0V2.668C0,1.195,1.791,0,4,0Z" transform="translate(2 91.592)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-11.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-8" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(411.5 1964)">
+          <text id="Month-8" data-name="Month" transform="translate(19 156.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-19.242" y="0">Aug 19</tspan></text>
+          <g id="Bars-8" data-name="Bars" transform="translate(6 -86)">
+            <path id="Blue_Bar-8" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V115a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 104)" fill="#0062ff"/>
+            <path id="Green_Bar-9" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V133a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 86)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(45.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-9" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(411.5 1898)">
+          <text id="Month-9" data-name="Month" transform="translate(19 222.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.6" y="0">Sep 19</tspan></text>
+          <g id="Bars-9" data-name="Bars" transform="translate(6 -20)">
+            <path id="Blue_Bar-9" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V63a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 156)" fill="#0062ff"/>
+            <path id="Green_Bar-10" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V199a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 20)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(102.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-10" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(412.5 1998)">
+          <text id="Month-10" data-name="Month" transform="translate(18 122.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-17.844" y="0">Oct 19</tspan></text>
+          <g id="Bars-10" data-name="Bars" transform="translate(5 -120)">
+            <path id="Blue_Bar-10" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V92a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 127)" fill="#0062ff"/>
+            <path id="Green_Bar-11" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V99a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 120)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(159.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-11" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(411.5 1993)">
+          <text id="Month-11" data-name="Month" transform="translate(19 127.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.726" y="0">Nov 19</tspan></text>
+          <g id="Bars-11" data-name="Bars" transform="translate(6 -115)">
+            <path id="Blue_Bar-11" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V79a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 140)" fill="#0062ff"/>
+            <path id="Green_Bar-12" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V104a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 115)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(216.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-12" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(411.5 1993)">
+          <text id="Month-12" data-name="Month" transform="translate(19 127.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.726" y="0">Nov 19</tspan></text>
+          <g id="Bars-12" data-name="Bars" transform="translate(6 -115)">
+            <path id="Blue_Bar-12" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V79a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 140)" fill="#0062ff"/>
+            <path id="Green_Bar-13" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V104a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 115)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(273.5 -1878)">
+        <g id="Widgets__Elements_Chart_Graph_-_Double_Bar-13" data-name="Widgets / _Elements / Chart / Graph - Double Bar" transform="translate(411.5 1993)">
+          <text id="Month-13" data-name="Month" transform="translate(19 127.26)" fill="#7e84a3" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-18.726" y="0">Nov 19</tspan></text>
+          <g id="Bars-13" data-name="Bars" transform="translate(6 -115)">
+            <path id="Blue_Bar-13" data-name="Blue Bar" d="M4,0H4A4,4,0,0,1,8,4V79a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 140)" fill="#0062ff"/>
+            <path id="Green_Bar-14" data-name="Green Bar" d="M4,0H4A4,4,0,0,1,8,4V104a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2 115)" fill="#29cb97"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
